@@ -2,4 +2,4 @@ Vasara
 hammer
 Ruuvimeisseli
 Naulapyssy
-kompura
+kompressori
